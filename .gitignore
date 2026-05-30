@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pastas de build
 bin/
 obj/
@@ -5,3 +6,4 @@ obj/
 # arquivos de sistema
 *.user
 .vs/
+
